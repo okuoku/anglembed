@@ -1,0 +1,30 @@
+[submodule "deps/SPIRV-Cross"]
+	path = deps/SPIRV-Cross
+	url = https://github.com/KhronosGroup/SPIRV-Cross
+[submodule "deps/SPIRV-Headers"]
+	path = deps/SPIRV-Headers
+	url = https://github.com/KhronosGroup/SPIRV-Headers
+[submodule "deps/SPIRV-Tools"]
+	path = deps/SPIRV-Tools
+	url = https://github.com/KhronosGroup/SPIRV-Tools
+[submodule "deps/Vulkan-Headers"]
+	path = deps/Vulkan-Headers
+	url = https://github.com/KhronosGroup/Vulkan-Headers
+[submodule "deps/VulkanMemoryAllocator"]
+	path = deps/VulkanMemoryAllocator
+	url = https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator
+[submodule "angle"]
+	path = angle
+	url = https://android.googlesource.com/platform/external/angle
+[submodule "angle-static-cmake"]
+	path = angle-static-cmake
+	url = https://github.com/okuoku/angle-static-cmake
+[submodule "deps/chromium-zlib"]
+	path = deps/chromium-zlib
+	url = https://github.com/okuoku/chromium-zlib
+[submodule "deps/glslang"]
+	path = deps/glslang
+	url = https://github.com/KhronosGroup/glslang
+[submodule "deps/volk"]
+	path = deps/volk
+	url = https://github.com/zeux/volk
